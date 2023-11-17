@@ -1,0 +1,134 @@
+{
+    "dir": "ltr",
+    "lang": "Portuguese",
+    "name": "Conversão de Números Romanos",
+    "short_name": "Números Romanos",
+    "scope": "/",
+    "display": "fullscreen",
+    "start_url": "https://romano.svrno.com.br/",
+    "background_color": "#257aa6",
+    "theme_color": "transparent",
+    "description": "App desenvolvido para simples conversão de números romanos e arábicos. Desenvolvido por SVRNO",
+    "orientation": "portrait",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/94ea3f64-4059-7c8e-75bc-f6609b03cbda.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/9209a2d2-267d-8255-54a4-cb12f190ee8c.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ce60de15-7bbf-24d6-97cf-3299aa888af2.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/74a419a0-6ffa-6521-927c-1d4c532e11bd.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/52a8de89-7455-e42f-d37a-402c93434af2.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/b08f4b59-fde1-93e1-3d53-cde4043d086f.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/1b428011-5602-4f0e-2da6-0f6f4324e0f6.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/9986b920-4595-185c-ad74-f93f4c23e226.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/0216e41c-d4ed-c556-6421-6af0c6aec7c7.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/446ebf21-d4d8-925b-1057-9f4d62eabe4b.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/08eb8ec4-a00a-8922-0d8a-aa33a8875d62.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/aa72b22f-eeea-c481-6a53-8e7066c5484c.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/5b2a0a55-30ed-f878-c764-b4cd4b4d5981.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/56a785f3-8777-1114-74a0-c49105e3f722.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/181609c9-d8a5-229c-9d8b-1d70a9b5e920.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/df6234e9-e5d4-9222-e00b-c1d020e7dc45.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/0b10f091-2941-5067-be18-f5e26c998202.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/2d9df861-7e1f-268c-f656-10e1552a94d4.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/b918ce6a-f465-b704-5492-d5f665d8cc34.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/63ee10c3-456a-2156-ffa6-aa33293a9a36.webPlatform.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        }
+    ],
+    "url": "https://romano.svrno.com.br",
+    "screenshots": [
+        {
+            "src": "Assets/screenshot1.png",
+            "sizes": "1280x800",
+            "type": "image/png",
+            "fileName": "Assets/screenshot1.png",
+            "generated": true
+        },
+        {
+            "src": "Assets/screenshot2.png",
+            "sizes": "750x1334",
+            "type": "image/png",
+            "fileName": "Assets/screenshot2.png",
+            "generated": true
+        }
+    ]
+}
